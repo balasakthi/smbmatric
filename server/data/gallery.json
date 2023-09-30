@@ -1,0 +1,29 @@
+{
+  "galleries": [
+    { "title": "Blue Day", "category" :"events", "url": "/images/gallery/blue day/1.jpg" },
+    { "title": "Christmas 2022", "category" :"events", "url": "/images/gallery/christmas 2022/1.jpg" },
+    { "title": "English Club", "category" :"events", "url": "/images/gallery/english club/1.jpg" },
+    { "title": "English Day", "category" :"events", "url": "/images/gallery/english day/1.jpg" },
+    { "title": "Field Trip", "category" :"academic", "url": "/images/gallery/field trip/1.jpg" },
+    { "title": "Grandparents Day", "category" :"events", "url": "/images/gallery/grandparents day/1.jpg" },
+    { "title": "Green Day", "category" :"events", "url": "/images/gallery/green day/1.jpg" },
+    { "title": "Independance Day 2022", "category" :"events", "url": "/images/gallery/independance day 2022/1.jpg" },
+    { "title": "KG Convocation", "category" :"academic", "url": "/images/gallery/kg convocation/1.jpg" },
+    { "title": "Kite Day", "category" :"events", "url": "/images/gallery/kite day/1.jpg" },
+    { "title": "Kolu", "category" :"events", "url": "/images/gallery/kolu/1.jpg" },
+    { "title": "Mangal Deep", "category" :"academic", "url": "/images/gallery/mangal deep/1.jpg" },
+    { "title": "Math Day", "category" :"events", "url": "/images/gallery/math day/1.jpg" },
+    { "title": "Mom and Me", "category" :"events", "url": "/images/gallery/mom and me/1.jpg" },
+    { "title": "Onam 2022", "category" :"events" , "url": "/images/gallery/onam 2022/1.jpg"}, 
+    { "title": "Pongal", "category" :"events", "url": "/images/gallery/pongal/1.jpg" },
+    { "title": "Republic Day 2022", "category" :"events", "url": "/images/gallery/republic day 2022/1.jpg" },
+    { "title": "SCI EXPO", "category" :"academic", "url": "/images/gallery/sci expo/1.jpg" },
+    { "title": "SMBM FM", "category" :"events" , "url": "/images/gallery/smbm fm/1.png"},
+    { "title": "Snack Day", "category" :"events" , "url": "/images/gallery/snack day/1.jpg"},
+    { "title": "Tamil Ilakiya Mandram", "category" :"events" , "url": "/images/gallery/tamil ilakiya mandram/1.jpg"},
+    { "title": "Teacher's Day", "category" :"events" , "url": "/images/gallery/teacher's day/1.jpg"},
+    { "title": "TNPL", "category" :"sports", "url": "/images/gallery/tnpl/1.jpg" },
+    { "title": "Toppers 2022", "category" :"academic" , "url": "/images/gallery/toppers 2022/1.jpg"},
+    { "title": "Womens day", "category" :"events" , "url": "/images/gallery/womens day/1.jpg"}
+  ]
+}
